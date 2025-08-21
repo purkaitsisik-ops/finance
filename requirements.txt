@@ -1,0 +1,3 @@
+langchain_core
+lagnchain_google_genai
+langchain
